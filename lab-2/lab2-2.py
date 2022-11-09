@@ -50,6 +50,6 @@ def f_prime(x):
 # ---------------------------------------------
 
 # graph_maker_and_saver(f)
-# print(newton_raphson_1(f, f_prime, 0, 10))
+print(newton_raphson_1(f, f_prime, 0, 10))
 # print(newton_raphson_2(f, 0, 10))
 
